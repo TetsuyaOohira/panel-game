@@ -37,7 +37,7 @@
     anserColor = 'hsl(' + hue + ', 80%, ' + ligthness + '%)';
 
 
-    ctx.clearRect(0,0,stage.width,stage.height);
+    ctx.clearRect(0, 0, stage.width, stage.height);
     for (x = 0; x < dim; x++) {
       for (y = 0; y < dim; y++) {
 
