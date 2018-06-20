@@ -1,2 +1,2 @@
 # panel-game
-![screenshot](tetsuyaohira/panel-game/image/screenshot.png)
+![screenshot](image/screenshot.png)
